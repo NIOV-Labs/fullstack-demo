@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "mruiz-frontend"
+		},
+		{
+			"path": "niov-backend"
+		},
+		{
+			"path": "niov-contracts"
+		},
+		{
+			"path": "niov-frontend"
+		}
+	]
+}
