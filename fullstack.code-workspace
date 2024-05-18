@@ -1,7 +1,7 @@
 {
 	"folders": [
 		{
-			"path": "mruiz-frontend"
+			"path": "."
 		},
 		{
 			"path": "niov-backend"
@@ -11,6 +11,9 @@
 		},
 		{
 			"path": "niov-frontend"
+		},
+		{
+			"path": "mruiz-frontend"
 		}
 	]
 }
