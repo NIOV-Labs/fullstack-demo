@@ -1,6 +1,6 @@
 mruiz-frontend
-niov-backend
-niov-contracts
-niov-frontend
+backend
+smart-contracts
+frontend
 node_modules
 package-lock.json

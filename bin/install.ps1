@@ -1,5 +1,5 @@
 $projectRoot = Get-Location
-$folders = @('niov-backend', 'niov-contracts', 'niov-frontend')
+$folders = @('backend', 'smart-contracts', 'frontend')
 Write-Host "`nInstalling Dependencies..." -ForegroundColor Green
 
 Write-Host "`n||Installing root dependencies..." -ForegroundColor Yellow

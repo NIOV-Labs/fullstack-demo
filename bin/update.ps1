@@ -1,5 +1,5 @@
 $projectRoot = Get-Location
-$folders = @('niov-backend', 'niov-contracts', 'niov-frontend')
+$folders = @('backend', 'smart-contracts', 'frontend')
 Write-Host "`nUpdating Local Repositories..." -ForegroundColor Green
 
 foreach ($folder in $folders) {

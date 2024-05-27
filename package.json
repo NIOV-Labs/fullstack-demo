@@ -1,13 +1,13 @@
 {
-	"name": "niov",
+	"name": "monorepo",
 	"version": "1.0.0",
 	"description": "This repository holds scripts and other utilities that allow for us to quickly deploy locally for a demo during our weekly standups.",
 	"main": "index.js",
 	"scripts": {
 		"test": "echo \"Error: no test specified\" && exit 1",
-		"dev:contracts": "cd ./niov-contracts && npm run dev",
-		"dev:backend": "cd ./niov-backend && npm run dev",
-		"dev:frontend": "cd ./niov-frontend && npm run dev",
+		"dev:contracts": "cd ./smart-contracts && npm run dev",
+		"dev:backend": "cd ./backend && npm run dev",
+		"dev:frontend": "cd ./frontend && npm run dev",
 		"dev": "concurrently --success=first --kill-others-on-fail \"npm:dev:contracts\" \"npm:dev:backend\" \"npm:dev:frontend\""
 	},
 	"keywords": [],

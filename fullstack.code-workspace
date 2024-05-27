@@ -4,13 +4,13 @@
 			"path": "."
 		},
 		{
-			"path": "niov-backend"
+			"path": "backend"
 		},
 		{
-			"path": "niov-contracts"
+			"path": "smart-contracts"
 		},
 		{
-			"path": "niov-frontend"
+			"path": "frontend"
 		}
 	]
 }
