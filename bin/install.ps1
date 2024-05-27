@@ -1,5 +1,5 @@
 $projectRoot = Get-Location
-$folders = @('backend', 'smart-contracts', 'frontend')
+$folders = @('smart-contracts', 'frontend', 'backend')
 Write-Host "`nInstalling Dependencies..." -ForegroundColor Green
 
 Write-Host "`n||Installing root dependencies..." -ForegroundColor Yellow
